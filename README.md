@@ -8,7 +8,7 @@ I aim to transform data into strategic insights, optimize processes, and develop
 
 <p align="left">
     </a> 
-  <a href="[www.linkedin.com/in/gabrielmrtns](https://www.linkedin.com/in/gabrielmrtns/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="(https://www.linkedin.com/in/gabrielmrtns/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </p>
 
 ---
